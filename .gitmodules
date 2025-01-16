@@ -1,0 +1,6 @@
+[submodule "ServerSideEvents.API"]
+	path = ServerSideEvents.API
+	url = git@github.com:Awhiteweb/ServerSideEvents.API.git
+[submodule "serversideevents-ng"]
+	path = serversideevents-ng
+	url = git@github.com:Awhiteweb/serversideevents-ng.git
